@@ -2,30 +2,30 @@
   <p><strong>Books:</strong></p>
 <hr>
 
-1. Properties of Expanding Universes</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/p282.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+1. The Demon-Haunted World: Science as a Candle in the Dark </br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-2. The Nature of Space and Time</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf0128.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2. The Varieties of Scientific Experience: A Personal View of the Search for God</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-3. George and the Big Bang</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf1094.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3. The Cosmic Connection: An Extraterrestrial Perspective</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(3).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-4.  Black Holes and Baby Universes and Other Essays</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf1095.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Pale Blue Dot</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(4).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-5. George's Cosmic Treasure Hunt</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf1096.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+5. Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-6.  The Large, the Small and the Human Mind</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf1097.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+6. Cosmos</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-7. George's Secret Key to the Universe (Russian Edition)</br>
-            <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf1100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+7. Dragons of Eden</br>
+            <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
-8.  A Brief History of Time</br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+8. The Cosmic Connection: An Extraterrestrial Perspective</br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/sag(8).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 9. My Brief History</br>
               <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf152.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
