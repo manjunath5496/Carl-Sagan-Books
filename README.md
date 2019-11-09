@@ -24,7 +24,7 @@
             <a href="https://github.com/manjunath5496/Carl-Sagan-Books/blob/master/sag(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
-8. The Cosmic Connection: An Extraterrestrial Perspective</br>
+8. Shadows of Forgotten Ancestors</br>
                 <a href="https://github.com/manjunath5496/Carl-Sagan-Books/blob/master/sag(8).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 9. Contact</br>
